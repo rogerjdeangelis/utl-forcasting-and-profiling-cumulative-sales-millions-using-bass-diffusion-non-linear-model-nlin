@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_unitsq_transform",
+  "source_file": "utl-forcasting-and-profiling-cumulative-sales-millions-using-bass-diffusion-non-linear-model-nlin.sas",
+  "source_blob_sha": "131b56797316fd20991a2254bf0c65a8db597e48",
+  "source_commit": "5130ef49cb46a1efc24d7ef1975a9ee3833087be",
+  "notes": "Unit-square min/max normalization via PROC SQL onto (0,1); libname sd1 d:/sd1 -> WORK; SQL and PROC PRINT unchanged."
+}

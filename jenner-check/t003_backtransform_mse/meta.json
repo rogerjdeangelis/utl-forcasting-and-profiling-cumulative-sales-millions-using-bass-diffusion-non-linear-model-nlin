@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_backtransform_mse",
+  "source_file": "utl-forcasting-and-profiling-cumulative-sales-millions-using-bass-diffusion-non-linear-model-nlin.sas",
+  "source_blob_sha": "131b56797316fd20991a2254bf0c65a8db597e48",
+  "source_commit": "5130ef49cb46a1efc24d7ef1975a9ee3833087be",
+  "notes": "Back-transform from unit square to original units + SUM(difsqr)/obs MSE via nested PROC SQL with CALCULATED columns; RESULTS reconstructs author's captured unit-square predicted column; SQL unchanged."
+}
